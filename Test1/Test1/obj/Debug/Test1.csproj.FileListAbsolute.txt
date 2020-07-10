@@ -1,0 +1,10 @@
+D:\dev\CodingTest\Test1\Test1\bin\Debug\Test1.exe.config
+D:\dev\CodingTest\Test1\Test1\bin\Debug\Test1.exe
+D:\dev\CodingTest\Test1\Test1\bin\Debug\Test1.pdb
+D:\dev\CodingTest\Test1\Test1\bin\Debug\Test1.Services.dll
+D:\dev\CodingTest\Test1\Test1\bin\Debug\Test1.Services.pdb
+D:\dev\CodingTest\Test1\Test1\obj\Debug\Test1.csprojAssemblyReference.cache
+D:\dev\CodingTest\Test1\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+D:\dev\CodingTest\Test1\Test1\obj\Debug\Test1.csproj.CopyComplete
+D:\dev\CodingTest\Test1\Test1\obj\Debug\Test1.exe
+D:\dev\CodingTest\Test1\Test1\obj\Debug\Test1.pdb
