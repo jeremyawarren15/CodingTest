@@ -1,9 +1,0 @@
-D:\dev\CodingTest\Test1\Test1.Services\bin\Debug\netstandard2.0\Test1.Services.deps.json
-D:\dev\CodingTest\Test1\Test1.Services\bin\Debug\netstandard2.0\Test1.Services.dll
-D:\dev\CodingTest\Test1\Test1.Services\bin\Debug\netstandard2.0\Test1.Services.pdb
-D:\dev\CodingTest\Test1\Test1.Services\obj\Debug\netstandard2.0\Test1.Services.csprojAssemblyReference.cache
-D:\dev\CodingTest\Test1\Test1.Services\obj\Debug\netstandard2.0\Test1.Services.AssemblyInfoInputs.cache
-D:\dev\CodingTest\Test1\Test1.Services\obj\Debug\netstandard2.0\Test1.Services.AssemblyInfo.cs
-D:\dev\CodingTest\Test1\Test1.Services\obj\Debug\netstandard2.0\Test1.Services.csproj.CoreCompileInputs.cache
-D:\dev\CodingTest\Test1\Test1.Services\obj\Debug\netstandard2.0\Test1.Services.dll
-D:\dev\CodingTest\Test1\Test1.Services\obj\Debug\netstandard2.0\Test1.Services.pdb

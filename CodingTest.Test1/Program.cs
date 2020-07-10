@@ -1,20 +1,20 @@
-﻿using System;
-using Test1.Services;
+﻿using CodingTest.Test1.Services;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Test1
+namespace CodingTest.Test1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var printService = new PrintService();
-            Console.WriteLine(printService.PrintSumNumbers(3, 4));
+            var ss = new SumService();
+
+            Console.WriteLine(ss.SumNumbers(4, 5));
             Console.ReadKey();
         }
-
     }
 }

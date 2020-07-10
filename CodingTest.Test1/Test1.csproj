@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{81C7C494-9C29-4B92-91BA-5C5346433871}</ProjectGuid>
+    <ProjectGuid>{D5D7DF0C-5C93-4169-8892-5213C0BEC9EE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Test1</RootNamespace>
-    <AssemblyName>Test1</AssemblyName>
+    <RootNamespace>CodingTest.Test1</RootNamespace>
+    <AssemblyName>CodingTest.Test1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -50,8 +50,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Test1.Services\Test1.Services.csproj">
-      <Project>{03d94b25-3718-479d-be3a-55a942320d67}</Project>
+    <ProjectReference Include="..\CodingTest.Test1.Services\Test1.Services.csproj">
+      <Project>{f7b7a3e2-736f-44b5-ab8e-fb2c4c7ea9da}</Project>
       <Name>Test1.Services</Name>
     </ProjectReference>
   </ItemGroup>
